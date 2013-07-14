@@ -1,0 +1,5 @@
+bin\Debug\MilkShakeEngine.dll
+bin\Debug\MilkShakeEngine.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MilkShakeEngine.dll
+obj\Debug\MilkShakeEngine.pdb

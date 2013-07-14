@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkShakeWeb", "http://localhost/MilkShake/MilkShakeWeb.csproj", "{3A531A08-14B3-42FE-A314-D351F5A60934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkShakeEngine", "MilkShakeEngine\MilkShakeEngine.csproj", "{5FD47DF8-8B90-481A-83CA-088AD983AD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkShakeTest", "MilkShakeTest\MilkShakeTest.csproj", "{184AB440-12A0-4F43-809D-BA2494BEAED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A531A08-14B3-42FE-A314-D351F5A60934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A531A08-14B3-42FE-A314-D351F5A60934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD47DF8-8B90-481A-83CA-088AD983AD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD47DF8-8B90-481A-83CA-088AD983AD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD47DF8-8B90-481A-83CA-088AD983AD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD47DF8-8B90-481A-83CA-088AD983AD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184AB440-12A0-4F43-809D-BA2494BEAED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184AB440-12A0-4F43-809D-BA2494BEAED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184AB440-12A0-4F43-809D-BA2494BEAED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184AB440-12A0-4F43-809D-BA2494BEAED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

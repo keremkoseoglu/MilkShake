@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MilkShake">
+</Property><Property Name="Solution File" Value="E:\Development\MilkShake\MilkShake.sln">
+</Property><Property Name="Date" Value="11 Aralık 2007 Salı">
+</Property><Property Name="Time" Value="00:22">
+</Property></Properties><Event ErrorLevel="2" Project="MilkShakeWeb" Source="http://localhost/MilkShake/MilkShakeWeb.csproj" Description="Web project component not installed.  Unable to convert project: http://localhost/MilkShake/MilkShakeWeb.csproj">
+</Event><Event ErrorLevel="3" Project="MilkShakeWeb" Source="http://localhost/MilkShake/MilkShakeWeb.csproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="MilkShakeEngine" Source="MilkShakeEngine\MilkShakeEngine.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="MilkShakeEngine" Source="MilkShakeEngine\MilkShakeEngine.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="MilkShakeTest" Source="MilkShakeTest\MilkShakeTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MilkShakeTest" Source="MilkShakeTest\MilkShakeTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MilkShake.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MilkShake.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MilkShakeTest" Source="MilkShakeTest\MilkShakeTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

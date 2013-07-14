@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v1.1.dtd">
+<dotfuscator version="1.1">
+  <!--This is application generated code. Do not edit manually.-->
+  <global>
+    <option>verbose</option>
+    <option>quiet</option>
+    <option>investigate</option>
+    <option>library</option>
+  </global>
+  <trigger>
+    <filelist>
+      <file dir="C:\Development\MilkShake\MilkShakeTest\bin\Release\" name="MilkShakeTest.exe" />
+    </filelist>
+  </trigger>
+  <output>
+    <file dir="C:\Development\MilkShake\MilkShakeTest\bin\Release\Frust" />
+  </output>
+</dotfuscator>
